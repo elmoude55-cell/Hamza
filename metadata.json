@@ -1,0 +1,6 @@
+{
+  "name": "منشئ ومحاكي العملات الرقمية",
+  "description": "منصة تفاعلية متميزة لسك وتصميم العملات الرقمية المخصصة ومحاكاة عمليات التعدين، مع تحليلات ذكية وتنبؤات أسعار مدعومة بـ Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
